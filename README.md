@@ -24,7 +24,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=Sass&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=Sass&logoColor=ffc0cb&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
