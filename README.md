@@ -54,7 +54,7 @@ Estou sempre em busca de aprender, colaborar e agregar valor. Fique à vontade p
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{davivaldez}/count.svg" /></p> 
+![](https://komarev.com/ghpvc/?username=davivaldez&color=blue) 
 <br>
 </div>
 
