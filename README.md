@@ -44,13 +44,13 @@
 
 ## About Me
 
-Sou Analista de Infraestrutura Júnior na Minsait, atuando na área de DevOps com foco em automação, integração contínua e melhoria de processos, utilizando principalmente o Azure DevOps. Possuo certificações em Kubernetes (CKA) e AWS, com sólidos conhecimentos em containerização, orquestração de containers e infraestrutura em nuvem.
+I am a Junior Infrastructure Analyst at Minsait, working in DevOps with a focus on automation, continuous integration, and process improvement, primarily using Azure DevOps. I hold certifications in Kubernetes (CKA) and AWS, with solid knowledge in containerization, container orchestration, and cloud infrastructure.
 
-Tenho paixão por aprender e aplicar novas tecnologias para entregar soluções eficientes e de qualidade. Atualmente curso Ciência da Computação, complementando minha prática profissional com uma base técnica e teórica sólida.
+I have a passion for learning and applying new technologies to deliver efficient, high-quality solutions. I am currently studying Computer Science, complementing my professional experience with a strong technical and theoretical foundation.
 
-Sou organizado, comunicativo e comprometido, valorizo o trabalho em equipe e estou sempre aberto a novos desafios e oportunidades para crescer profissionalmente.
+I am organized, communicative, and committed. I value teamwork and am always open to new challenges and opportunities to grow professionally.
 
-Estou sempre em busca de aprender, colaborar e agregar valor. Fique à vontade para entrar em contato!
+I am constantly seeking to learn, collaborate, and add value. Feel free to reach out!
 
 <div align="center">
   <br>
