@@ -21,34 +21,36 @@
 
  ### Main skills:
 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=orange)
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=Sass&logoColor=ffc0cb&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+[![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 
 ### Studying in this moment:
 
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+[![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 
 ## About Me
 
-Meu nome é Davi e ingressei na área de tecnologia em 2023, atualmente cursando Ciência da Computação.
+Sou Analista de Infraestrutura Júnior na Minsait, atuando na área de DevOps com foco em automação, integração contínua e melhoria de processos, utilizando principalmente o Azure DevOps. Possuo certificações em Kubernetes (CKA) e AWS, com sólidos conhecimentos em containerização, orquestração de containers e infraestrutura em nuvem.
 
-No meu emprego atual, estou envolvido em projetos focados em automação de processos e desenvolvimento de pipelines de CI/CD. Tenho desenvolvido pipelines de Continuous Deployment (CD) no **Azure DevOps**, configurando e ajustando pipelines e migrando repositórios antigos para novos ambientes nessa plataforma e migrando pipelines de Jenkins para o Azure DevOps, otimizando fluxos de trabalho e aprimorando a eficiência no processo de desenvolvimento.
+Tenho paixão por aprender e aplicar novas tecnologias para entregar soluções eficientes e de qualidade. Atualmente curso Ciência da Computação, complementando minha prática profissional com uma base técnica e teórica sólida.
 
-Além disso, possuo experiência com **Zabbix**, realizando a configuração de sistemas de monitoramento e alertas em tempo real, garantindo a estabilidade das operações. Conquistei também experiência com **Kubernetes** e **Docker**, através de cursos especializados, ampliando meus conhecimentos em orquestração de containers e gerenciamento de infraestrutura. Sou certificado em **Kubernetes (CKA)** e **AWS**, o que reflete meu compromisso com o aprendizado contínuo e meu interesse por tecnologias emergentes.
+Sou organizado, comunicativo e comprometido, valorizo o trabalho em equipe e estou sempre aberto a novos desafios e oportunidades para crescer profissionalmente.
 
-Estou sempre em busca de novos desafios, ampliando meus conhecimentos e colaborando com outros profissionais. Se você tem interesse em tecnologias de ponta, vamos trocar ideias!
+Estou sempre em busca de aprender, colaborar e agregar valor. Fique à vontade para entrar em contato!
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
