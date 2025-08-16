@@ -53,9 +53,10 @@ Sou organizado, comunicativo e comprometido, valorizo o trabalho em equipe e est
 Estou sempre em busca de aprender, colaborar e agregar valor. Fique à vontade para entrar em contato!
 
 <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-![](https://komarev.com/ghpvc/?username=davivaldez&color=blue) 
-<br>
+  <br>
+  <p><b>Visitors Count</b></p>
+  <img src="https://komarev.com/ghpvc/?username=davivaldez&color=blue" alt="Visitors Count" />
+  <br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
