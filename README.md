@@ -53,7 +53,7 @@ Sou organizado, comunicativo e comprometido, valorizo o trabalho em equipe e est
 Estou sempre em busca de aprender, colaborar e agregar valor. Fique à vontade para entrar em contato!
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{davivaldez}/count.svg" /></p> 
 <br>
 </div>
